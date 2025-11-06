@@ -1,6 +1,6 @@
 # Guvi Tasks
 
-This repository contains a collection of tasks and projects organized under the **Guvi Tasks** series.  
+This repository contains a collection of tasks and projects organized under the **Guvi Tasks**.  
 Each folder within this repository represents an individual task, including code implementations, configurations, and documentation.
 
 
