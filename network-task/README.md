@@ -35,7 +35,7 @@ ping guvi.in
 
 Output:
 
-![Connectivity Test](screenshots/03_connectivity_test.png)
+![Connectivity Test](screenshots/03_ping_test.png)
 
 ## 4. Check if Port 9000 is Open (guvi.com:9000)
 
